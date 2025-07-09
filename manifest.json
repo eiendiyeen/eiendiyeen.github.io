@@ -1,0 +1,20 @@
+{
+  "name": "PWA Sederhana",
+  "short_name": "PWA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#79C9F6",
+  "icons": [
+    {
+      "src": "Screenshot 2025-07-05 154024.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Screenshot 2025-07-09 081058.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
